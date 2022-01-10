@@ -1,4 +1,4 @@
-## Hello, I'm Drew Hughlett! <img src="media/christmas-corgis.gif" width="75">
+## Hello, I'm Drew Hughlett! <img src="media/jump-rope-corgi.gif" width="75">
 
 _Senior studying Computer Science at [North Carolina State University](https://www.csc.ncsu.edu/) in Raleigh, NC._
 
