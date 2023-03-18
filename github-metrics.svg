@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devcontainers/images</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers</div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devcontainers/feature-starter</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A  bootstrap repo for self-authoring Dev Container Features</div>
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devcontainers/template-starter</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template explaining how to author custom dev container Templates</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/vscode-dev-containers</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Mar 2023, 18:10:27 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Mar 2023, 19:11:25 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
