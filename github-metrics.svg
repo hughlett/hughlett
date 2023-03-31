@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deluan/zsh-in-docker</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line!</div>
@@ -1654,7 +1654,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Mar 2023, 12:13:40 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Mar 2023, 13:10:23 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
