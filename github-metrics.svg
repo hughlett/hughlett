@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timoxley/best-practices</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tidbits of developer best practices from around the web</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deluan/zsh-in-docker</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line!</div>
@@ -1659,7 +1659,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2023, 16:11:32 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Apr 2023, 17:10:01 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
