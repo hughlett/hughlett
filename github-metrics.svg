@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anishathalye/dotfiles_template</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for structuring dotfiles (using Dotbot as an installer) 📜</div>
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anishathalye/dotbot</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool that bootstraps your dotfiles ⚡️</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>runfalk/synology-wireguard</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WireGuard support for some Synology NAS drives</div>
@@ -1631,7 +1631,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Apr 2023, 12:13:42 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Apr 2023, 13:09:42 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
