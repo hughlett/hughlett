@@ -1326,7 +1326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>git-ecosystem/git-credential-manager</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</div>
@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>massgravel/Microsoft-Activation-Scripts</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</div>
@@ -1426,7 +1426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wslutilities/wslu</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of utilities for Windows Subsystem for Linux</div>
@@ -1622,7 +1622,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Apr 2023, 23:12:06 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Apr 2023, 00:14:11 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
