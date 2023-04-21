@@ -1326,7 +1326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikeroyal/Self-Hosting-Guide</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Home Assistant, and Networking.</div>
@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>git-ecosystem/git-credential-manager</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</div>
@@ -1622,7 +1622,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Apr 2023, 12:14:24 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Apr 2023, 13:10:18 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
