@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>motiondivision/motionone</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1402,7 +1402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shikijs/shiki</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A beautiful Syntax Highlighter.</div>
@@ -1455,7 +1455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudnativedevops/demo</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple demonstration app for 'Cloud Native Devops'</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2023, 20:57:09 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Apr 2023, 22:04:57 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
