@@ -1358,7 +1358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asobti/kube-monkey</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of Netflix's Chaos Monkey for Kubernetes clusters</div>
@@ -1411,7 +1411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linki/chaoskube</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">chaoskube periodically kills random pods in your Kubernetes cluster.</div>
@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vmware-tanzu/sonobuoy</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.</div>
@@ -1644,7 +1644,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 May 2023, 14:13:47 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 May 2023, 15:09:14 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
