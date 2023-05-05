@@ -1326,7 +1326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/client-go</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go client for Kubernetes.</div>
@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lensapp/lens</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lens - The way the world runs Kubernetes</div>
@@ -1432,7 +1432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stern/stern</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern</div>
@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonmosco/kube-ps1</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes prompt info for bash and zsh</div>
@@ -1612,7 +1612,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 May 2023, 11:11:17 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 May 2023, 12:14:20 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
