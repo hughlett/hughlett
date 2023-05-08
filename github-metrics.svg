@@ -1343,7 +1343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/aws-load-balancer-controller</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Kubernetes controller for Elastic Load Balancers</div>
@@ -1396,7 +1396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>k8s-operatorhub/community-operators</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.</div>
@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/metrics-server</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.</div>
@@ -1629,7 +1629,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2023, 18:10:28 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 May 2023, 19:12:11 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
