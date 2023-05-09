@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquasecurity/trivy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</div>
@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quay/clair</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vulnerability Static Analysis for Containers</div>
@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubescape/kubescape</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</div>
@@ -1507,7 +1507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquasecurity/kube-bench</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark</div>
@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">kubernetes-sigs/aws-load-balancer-controller</span>
+                                        <span class="repo">aquasecurity/trivy</span>
                                     </div>
                                 </div>
                             </section>
@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">k8s-operatorhub/community-operators</span>
+                                        <span class="repo">quay/clair</span>
                                     </div>
                                 </div>
                             </section>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">kubernetes-sigs/metrics-server</span>
+                                        <span class="repo">kubescape/kubescape</span>
                                     </div>
                                 </div>
                             </section>
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">memcached/memcached</span>
+                                        <span class="repo">aquasecurity/kube-bench</span>
                                     </div>
                                 </div>
                             </section>
@@ -1624,7 +1624,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">supermavster/docker-selenium-python</span>
+                                        <span class="repo">open-policy-agent/gatekeeper-library</span>
                                     </div>
                                 </div>
                             </section>
@@ -1634,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2023, 18:10:15 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 19:10:36 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
