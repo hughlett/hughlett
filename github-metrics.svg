@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/aws-load-balancer-controller</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Kubernetes controller for Elastic Load Balancers</div>
@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>k8s-operatorhub/community-operators</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.</div>
@@ -1634,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2023, 02:14:57 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 03:10:41 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
