@@ -1358,7 +1358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JENOVAAbsolute/128BB-Shaders</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ryujinx/Ryujinx</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Nintendo Switch Emulator written in C#</div>
@@ -1647,7 +1647,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2023, 06:11:14 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 May 2023, 07:09:12 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
